@@ -6,6 +6,9 @@ There's a frood who really knows where his towel is.
 1.1b2 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
+- Update jQuery File Upload to version 9.12.3 (closes `#56`_).
+  [rodfersou]
+
 - Fix UnicodeEncodeError on JSVariables view.
   [rodfersou]
 
@@ -128,3 +131,4 @@ There's a frood who really knows where his towel is.
 .. _`#24`: https://github.com/collective/collective.upload/issues/24
 .. _`#35`: https://github.com/collective/collective.upload/issues/35
 .. _`#46`: https://github.com/collective/collective.upload/issues/46
+.. _`#56`: https://github.com/collective/collective.upload/issues/56
