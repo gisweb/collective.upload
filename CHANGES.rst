@@ -6,7 +6,8 @@ There's a frood who really knows where his towel is.
 1.1b3 (unreleased)
 ^^^^^^^^^^^^^^^^^^
 
-- Nothing changed yet.
+- Add field to set the creator (closes `#34`_).
+  [rodfersou]
 
 
 1.1b2 (2016-04-25)
@@ -136,5 +137,6 @@ There's a frood who really knows where his towel is.
 - Initial release.
 
 .. _`#24`: https://github.com/collective/collective.upload/issues/24
+.. _`#34`: https://github.com/collective/collective.upload/issues/34
 .. _`#35`: https://github.com/collective/collective.upload/issues/35
 .. _`#46`: https://github.com/collective/collective.upload/issues/46
